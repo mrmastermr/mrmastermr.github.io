@@ -1,0 +1,15 @@
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+
+# 忽略掉所有文件名是 workspace.xml 的文件
+workspace.xml
+
+/.idea/
