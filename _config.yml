@@ -93,7 +93,12 @@ JB :
       colorscheme: light
     duoshuo :
       short_name : 4399movies
-   
+
+  # Baidu Analytics
+  ba_track_id: d0fa1d936517b6a11ef154e493d91689
+
+
+
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.

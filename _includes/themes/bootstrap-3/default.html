@@ -44,6 +44,17 @@
     <!-- atom & rss feed -->
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+   <!--百度统计-->
+    <script>
+      var _hmt = _hmt || [];
+      (function() {
+        var analyticsQuery = {ba_track_id:"{{ site.JB.ba_track_id }}"};
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?"+analyticsQuery.ba_track_id;
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
 
   </head>
 
@@ -64,12 +75,12 @@
             </ul>
           </div>
           <div class="col-sm-3 header_right">
-            <ul class="header_right_box">
-              <li><img src="{{ BASE_PATH }}/assets/images/p1.png" alt=""/></li>
-              <li><p><a href="login.html">Carol Varois</a></p></li>
-              <li class="last"><i class="edit"> </i></li>
-              <div class="clearfix"> </div>
-            </ul>
+            <!--<ul class="header_right_box">-->
+              <!--<li><img src="{{ BASE_PATH }}/assets/images/p1.png" alt=""/></li>-->
+              <!--<li><p><a href="login.html">Carol Varois</a></p></li>-->
+              <!--<li class="last"><i class="edit"> </i></li>-->
+              <!--<div class="clearfix"> </div>-->
+            <!--</ul>-->
           </div>
           <div class="clearfix"> </div>
         </div>
