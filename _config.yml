@@ -1,1 +1,9 @@
 theme: jekyll-theme-modernist
+
+# Site settings
+title: 4399电影             # 你的博客网站标题
+SEOTitle: 免费电影观看,电影观看,最新电影,4399电影			# 在后面会详细谈到
+description: "免费电影观看,电影观看,最新电影,4399电影"    # 随便说点，描述一下
+
+# Build settings
+# paginate: 10              # 一页你准备放几篇文章
