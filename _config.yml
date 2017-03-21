@@ -5,5 +5,22 @@ title: 4399电影             # 你的博客网站标题
 SEOTitle: 免费电影观看,电影观看,最新电影,4399电影			#
 description: "免费电影观看,电影观看,最新电影,4399电影"    #
 
-# Build settings
-# paginate: 10              # 一页你准备放几篇文章
+ # Settings for comments helper
+  # Set 'provider' to the comment provider you want to use.
+  # Set 'provider' to false to turn commenting off globally.
+  #
+  comments :
+    provider : duoshuo
+    disqus :
+      short_name : jekyllbootstrap
+    livefyre :
+      site_id : 123
+    intensedebate :
+      account : 123abc
+    facebook :
+      appid : 123
+      num_posts: 5
+      width: 580
+      colorscheme: light
+    duoshuo :
+      short_name : mrmastermr
