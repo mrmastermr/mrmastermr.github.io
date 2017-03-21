@@ -23,7 +23,7 @@ tagline:
 			  <div class="row_1">
 			  <div class="col-md-6 grid_4"><a href="single.html">
 				  <div class="grid_2">
-					<img src="images/pic1.jpg" class="img-responsive" alt=""/>
+					<img src="{{ BASE_PATH }}/assets/images/pic1.jpg" class="img-responsive" alt=""/>
 					<div class="caption1">
 						<ul class="list_3">
 				    		<li><i class="icon5"> </i><p>3,548</p></li>
@@ -33,7 +33,7 @@ tagline:
 					</div>
 				   </div>
 				   <div class="grid_2 col_1">
-					<img src="images/pic2.jpg" class="img-responsive" alt=""/>
+					<img src="{{ BASE_PATH }}/assets/images/pic2.jpg" class="img-responsive" alt=""/>
 					<div class="caption1">
 						<ul class="list_3">
 				    		<li><i class="icon5"> </i><p>3,548</p></li>
@@ -49,24 +49,24 @@ tagline:
 			    			<li><i class="icon1"> </i><p>2,548</p></li>
 			    			<li><i class="icon2"> </i><p>215</p></li>
 			    			<li><i class="icon3"> </i><p>546</p></li>
-			    			<li>Rating : &nbsp;&nbsp;<p><img src="images/rating1.png" alt=""/></p></li>
+			    			<li>Rating : &nbsp;&nbsp;<p><img src="{{ BASE_PATH }}/assets/images/rating1.png" alt=""/></p></li>
 			    			<li>Release Date : &nbsp;<span class="m_4">Mar 15, 2015</span> </li>
 			    			<div class="clearfix"> </div>
 			    		</ul>
-			    		<div class="m_5"><a href="single.html"><img src="images/pic3.jpg" class="img-responsive" alt=""/></a></div>
+			    		<div class="m_5"><a href="single.html"><img src="{{ BASE_PATH }}/assets/images/pic3.jpg" class="img-responsive" alt=""/></a></div>
 				   </div>
 			 </div>
 			   <div class="clearfix"> </div>
 			   </div>
 			   <div class="row_2">
-			   	<a href="single.html"><img src="images/pic4.jpg" class="img-responsive" alt=""/></a>
+			   	<a href="single.html"><img src="{{ BASE_PATH }}/assets/images/pic4.jpg" class="img-responsive" alt=""/></a>
 			   </div>
 			</div>
 			<div class="col-md-5 content_right">
 			 <div class="row_3">
 			  <div class="col-md-6 content_right-box"><a href="single.html">
 				<div class="grid_2">
-				<img src="images/pic6.jpg" class="img-responsive" alt=""/>
+				<img src="{{ BASE_PATH }}/assets/images/pic6.jpg" class="img-responsive" alt=""/>
 				<div class="caption1">
 						<ul class="list_5">
 				    		<li><i class="icon5"> </i><p>3,548</p></li>
@@ -78,7 +78,7 @@ tagline:
 			   </a></div>
 			   <div class="col-md-6 grid_5"><a href="single.html">
 				<div class="grid_2">
-				<img src="images/pic7.jpg" class="img-responsive" alt=""/>
+				<img src="{{ BASE_PATH }}/assets/images/pic7.jpg" class="img-responsive" alt=""/>
 				<div class="caption1">
 						<ul class="list_5">
 				    		<li><i class="icon5"> </i><p>3,548</p></li>
@@ -100,18 +100,18 @@ tagline:
 			    			<li><i class="icon1"> </i><p>2,548</p></li>
 			    			<li><i class="icon2"> </i><p>215</p></li>
 			    			<li><i class="icon3"> </i><p>546</p></li>
-			    			<li>Rating : &nbsp;&nbsp;<p><img src="images/rating1.png" alt=""></p></li>
+			    			<li>Rating : &nbsp;&nbsp;<p><img src="{{ BASE_PATH }}/assets/images/rating1.png" alt=""></p></li>
 			    			<div class="clearfix"> </div>
 			    		</ul>
 				   </div>
 			   </div>
 			   <div class="col-md-6 m_6"><a href="single.html">
-				  <img src="images/pic8.jpg" class="img-responsive" alt=""/>
+				  <img src="{{ BASE_PATH }}/assets/images/pic8.jpg" class="img-responsive" alt=""/>
 			   </a></div>
 			  </div>
 			</div>
 			<div class="col-md-2 grid_6">
-				<div class="m_7"><a href="single.html"><img src="images/pic9.jpg" class="img-responsive" alt=""/></a></div>
+				<div class="m_7"><a href="single.html"><img src="{{ BASE_PATH }}/assets/images/pic9.jpg" class="img-responsive" alt=""/></a></div>
 				<div class="caption1">
 						<ul class="list_5">
 				    		<li><i class="icon5"> </i><p>3,548</p></li>
@@ -124,11 +124,11 @@ tagline:
 			    			<li><i class="icon1"> </i><p>2,548</p></li>
 			    			<li><i class="icon2"> </i><p>215</p></li>
 			    			<li><i class="icon3"> </i><p>546</p></li>
-			    			<li>Rating : &nbsp;&nbsp;<p><img src="images/rating1.png" alt=""></p></li>
+			    			<li>Rating : &nbsp;&nbsp;<p><img src="{{ BASE_PATH }}/assets/images/rating1.png" alt=""></p></li>
 			    			<li>Release : &nbsp;<span class="m_4">Mar 15, 2015</span> </li>
 			    			<div class="clearfix"> </div>
 			    		</ul>
-			    		<div class="m_8"><a href="single.html"><img src="images/pic10.jpg" class="img-responsive" alt=""/></a></div>
+			    		<div class="m_8"><a href="single.html"><img src="{{ BASE_PATH }}/assets/images/pic10.jpg" class="img-responsive" alt=""/></a></div>
 			    </div>
 			</div>
 			<div class="clearfix"> </div>
